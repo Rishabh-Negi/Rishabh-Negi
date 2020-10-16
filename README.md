@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 My Name is Rishabh Negi
+
+- 🌱 I’m currently learning ***Flutter***
+- 💬 Ask me about ***Flutter Java C/C++ dart***
+ - 📫 How to reach me: [![LinkedIn][1.2]][1] [![Twitter][2.2]][2] 
+
+
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[2.2]: http://i.imgur.com/wWzX9uB.png 
+
+[1]: https://www.linkedin.com/in/rishabh-negi-6413b91b4/
+[2]: https://twitter.com/negi_hai_hum
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Rishabh-Negi&count_private=true&show_icons=true&theme=tokyonight" />
+
+<br>
+<br>
 
 <!--
-**Rishabh-Negi/Rishabh-Negi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-Negi&repo=Projects)](https://github.com/Rishabh-Negi/Projects) -->
