@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=14e1Wmikwc2qM6-OD4_sBGuyruwSIyFEf" style="width: 100%; height: auto" title="banner" />
+![Banner](https://github.com/Rishabh-Negi/project_gallery/blob/master/banner.svg?raw=true)
 
 <h3><p align="center">Hi there 👋 My Name is Rishabh Negi</p></h3>
 <br>
