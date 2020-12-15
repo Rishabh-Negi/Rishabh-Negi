@@ -1,31 +1,60 @@
-### Hi there 👋 My Name is Rishabh Negi
+<img src="https://drive.google.com/uc?export=view&id=14e1Wmikwc2qM6-OD4_sBGuyruwSIyFEf" style="width: 100%; height: auto" title="banner" />
 
-- 🌱 I’m currently learning ***Flutter***
-- 💬 Ask me about ***Flutter Java C/C++ dart***
+<h3><p align="center">Hi there 👋 My Name is Rishabh Negi</p></h3>
+<br>
 
-<p align='center'>
-<a href=https://www.instagram.com/rishabh_negi_04/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rishabh-negi-6413b91b4/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+- I'm a ***Flutter App Developer***
+- I’m currently learning ***Full Stack Development***
+- I'm currently in ***2nd Year (IIITDMJ B.tech CSE)***
+
+<p align="center">
+<a href="https://www.instagram.com/rishabh_negi_04/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>
+&nbsp;<a href="https://www.linkedin.com/in/rishabh-negi-6413b91b4/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Rishabh-Negi&count_private=true&show_icons=true&theme=tokyonight" />
-
-<br>
 <br>
 
-<p>
-
-<table border=0>
-<tr> 
-<td>
-
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishabh-Negi&repo=TheGlitch-App&theme=tokyonight)](https://github.com/Rishabh-Negi/) 
- </td>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-Negi&layout=compact&theme=tokyonight)](https://github.com/Rishabh-Negi)
-
-</td>
-</tr>
+**PROJECTS**
+<table>
+<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/technical.PNG?raw=true" style="width: auto; height: 30%" title="Clubs-app-Photo" />
+&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/clubs.gif?raw=true" style="width: auto; height: 30%" title="Clubs-GIF" />
+&nbsp;&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/day.PNG?raw=true" style="width: auto; height: 30%" title="Day-Nigth-photo"/>
+&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/clock.gif?raw=true" style="width: auto; height: 30%" title="Day-Night-animation-GIF" />
 </table>
-</p>
+
+<!-- uncomment this to add more
+<table>
+<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/technical.PNG?raw=true" style="width: auto; height: 30%" title="Clubs-app-Photo" />
+&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/clubs.gif?raw=true" style="width: auto; height: 30%" title="Clubs-GIF" />
+&nbsp;&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/day.PNG?raw=true" style="width: auto; height: 30%" title="Day-Nigth-photo"/>
+&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/clock.gif?raw=true" style="width: auto; height: 30%" title="Day-Night-animation-GIF" />
+</table> 
+-->
+
+<!-- 
+**SKILLS:**
+- Dart
+- Java
+- C++/C
+- Python
+- HTML
+- CSS
+- JAVASCRIPT
+- SQL
+- SQLITE
+- MONGODB
+- REST API
+- FIREBASE
+- HIVE -->
+
+<!-- uncomment this for banner for contact me
+<img src="https://drive.google.com/uc?export=view&id=1VJoJcKf-2k-wtNTMpz00G3tSOm9nklJf" style="width: 100%; height: 40%" title="banner" /> -->
+
+
+<!-- uncomment this to add card to display github content
+<br>
+<br>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Rishabh-Negi&count_private=true&show_icons=true&theme=tokyonight" />
+</p> -->
