@@ -15,21 +15,10 @@
 <br>
 
 **PROJECTS**
-<table>
-<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/technical.PNG?raw=true" style="width: auto; height: 30%" title="Clubs-app-Photo" />
-&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/clubs.gif?raw=true" style="width: auto; height: 30%" title="Clubs-GIF" />
-&nbsp;&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/day.PNG?raw=true" style="width: auto; height: 30%" title="Day-Nigth-photo"/>
-&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/clock.gif?raw=true" style="width: auto; height: 30%" title="Day-Night-animation-GIF" />
-</table>
 
-<!-- uncomment this to add more
-<table>
-<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/technical.PNG?raw=true" style="width: auto; height: 30%" title="Clubs-app-Photo" />
-&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/clubs.gif?raw=true" style="width: auto; height: 30%" title="Clubs-GIF" />
-&nbsp;&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/day.PNG?raw=true" style="width: auto; height: 30%" title="Day-Nigth-photo"/>
-&nbsp;<img src="https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/clock.gif?raw=true" style="width: auto; height: 30%" title="Day-Night-animation-GIF" />
-</table> 
--->
+|![clubs-app-photo](https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/technical.PNG?raw=true) |![clubs-app-gif](https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/clubs.gif?raw=true) |![day-night-clock](https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/day.PNG?raw=true) |![day-night-clock-gif](https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/clock.gif?raw=true)|
+|---|----|----|----|
+
 
 <!-- 
 **SKILLS:**
