@@ -16,14 +16,20 @@
 
 **PROJECTS**
 
-|![clubs-app-photo](https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/technical.PNG?raw=true) |![clubs-app-gif](https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/clubs.gif?raw=true) |![day-night-clock](https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/day.PNG?raw=true) |![day-night-clock-gif](https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/clock.gif?raw=true)|
-|---|----|----|----|
+<!-- update clubs apps gif (change and align font) -->
 
+
+|![clubs-app-photo](https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/technical.PNG?raw=true) |![clubs-app-gif](https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/clubs.gif?raw=true) |![day-night-clock](https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/day.PNG?raw=true) |![day-night-clock-gif](https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/clock.gif?raw=true)|
+|----|----|----|----|
+
+
+|![tendua_login](https://github.com/Rishabh-Negi/project_gallery/blob/master/tendua/login.PNG?raw=true)|![tendua_login](https://github.com/Rishabh-Negi/project_gallery/blob/master/tendua/home.PNG?raw=true)    | ![tendua_login](https://github.com/Rishabh-Negi/project_gallery/blob/master/tendua/tweet.PNG?raw=true)|
+|----|----|----|
 
 <!-- 
 **SKILLS:**
 - Dart
-- Java
+- Javas
 - C++/C
 - Python
 - HTML
