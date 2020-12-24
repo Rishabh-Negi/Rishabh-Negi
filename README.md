@@ -4,7 +4,7 @@
 <br>
 
 - I'm a ***Flutter App Developer***
-- I’m currently learning ***Full Stack Development***
+- I’m currently learning ***React Native***
 - I'm currently in ***2nd Year (IIITDMJ B.tech CSE)***
 
 <p align="center">
@@ -22,11 +22,8 @@
 |![clubs-app-photo](https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/technical.PNG?raw=true) |![clubs-app-gif](https://github.com/Rishabh-Negi/project_gallery/blob/master/clubs/clubs.gif?raw=true) |![day-night-clock](https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/day.PNG?raw=true) |![day-night-clock-gif](https://github.com/Rishabh-Negi/project_gallery/blob/master/clock/clock.gif?raw=true)|
 |-|-|-|-|
 |![Furniture-app](https://github.com/Rishabh-Negi/Furniture_Shop/blob/master/gallery/homeScreen.PNG?raw=true)|![Furniture-app](https://github.com/Rishabh-Negi/Furniture_Shop/blob/master/gallery/itemScreen.PNG?raw=true)|![calculator-dark](https://github.com/Rishabh-Negi/project_gallery/blob/master/calculator/cal_dark.PNG?raw=true)|![calculator-dark](https://github.com/Rishabh-Negi/project_gallery/blob/master/calculator/cal_light.PNG?raw=true)|
-<!-- 
+
 &nbsp;
-&nbsp; -->
-<br>
-<br>
 
 |![tendua-login](https://github.com/Rishabh-Negi/project_gallery/blob/master/tendua/login.PNG?raw=true)|![tendua-home](https://github.com/Rishabh-Negi/project_gallery/blob/master/tendua/home.PNG?raw=true)|![tendua-tweet](https://github.com/Rishabh-Negi/project_gallery/blob/master/tendua/tweet.PNG?raw=true)|
 |-|-|-|
