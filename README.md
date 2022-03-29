@@ -4,8 +4,8 @@
 <br>
 
 - I'm a ***Flutter App Developer***
-- I’m currently learning ***React Native***
-- I'm currently in ***2nd Year (IIITDMJ B.tech CSE)***
+
+
 
 <p align="center">
 <a href="https://www.instagram.com/rishabh_negi_04/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>
